@@ -1,5 +1,12 @@
 env/
+.venv/
+venv/
 progress
 temp/
 .env
 __pycache__/
+.easyocr/
+.agents/
+*.log
+skills-lock.json
+AGENTS.md
